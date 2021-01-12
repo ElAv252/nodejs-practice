@@ -1,0 +1,23 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elazar avrahami",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "events": "^3.2.0",
+    "http": "0.0.1-security",
+    "lodash": "^4.17.20",
+    "request": "^2.88.2",
+    "util": "^0.12.3",
+    "xo": "^0.37.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0"
+  }
+}
